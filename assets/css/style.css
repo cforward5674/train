@@ -1,0 +1,30 @@
+
+.jumbotron  {
+    background-color: darkred;
+    
+}
+
+.head {
+    color: white;
+    text-align: center;
+}
+
+.subhead {
+    color: white;
+    text-align: center;
+}
+
+
+h6 {
+    background-color: rgb(235, 235, 31);
+    border: solid black 1px;
+}
+
+h5 .choo {
+    text-align: center;
+}
+
+.box {
+    background-color: darkred;
+    color: white;
+}
